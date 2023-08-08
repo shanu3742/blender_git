@@ -37,4 +37,8 @@
 - To change mode BETWEEN OBJECT MODE AND EDIT MODE press `TAB`
 - TO CHANGE IN DIFFERENT MODE PRESS `CTRL+TAB`
 - TO OPEN SHADED MENU PRESS `Z` (SOLID|WIREFRAME|RENDERED|MATERIAL VIEW)
+- to Search an option press `F3`
+- to copay a object or to duplicate  a object `SHIFT+D`
+- LOOP CUT  `CTRL+R`
+
 
